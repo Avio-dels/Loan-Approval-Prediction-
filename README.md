@@ -4,7 +4,7 @@
 
 Predict whether a **loan will be approved** based on applicant information such as **CIBIL score, income, assets, loan amount, tenure, and education** using **machine learning**. This project helps identify key factors affecting loan approval and predicts loan status for new applicants.
 
-> ⚠️ **Note:** This project was developed using **Anaconda**.
+> ⚠️ **Note:** This project was developed using                     **Anaconda**.
 
 ---
 
